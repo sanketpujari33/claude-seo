@@ -17,6 +17,8 @@ Example CSV:
     "product shot on marble",4:3,2K
 """
 
+import utils.transport
+import utils.session
 import argparse
 import csv
 import json
